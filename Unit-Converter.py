@@ -1,4 +1,4 @@
-import emoji
+
 import streamlit as st
 
 st.title("Unit Converter 🌍")
